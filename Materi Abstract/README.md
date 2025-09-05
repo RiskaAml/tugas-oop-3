@@ -34,6 +34,3 @@ public class Main {
     }
 }
 
----
-
-# 📱 Interface Example
